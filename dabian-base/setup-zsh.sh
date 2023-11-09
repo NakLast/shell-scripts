@@ -9,7 +9,7 @@
 
 # Install Oh-My-Zsh on ubuntu
 # sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
-# If it show press n and enter
+# If it show press Y and enter
 # else It show "-> ~" is mean install success
 # ================================= #
 
