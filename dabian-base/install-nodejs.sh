@@ -6,6 +6,10 @@ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 
 chsh -s /bin/zsh
 
+exec $SHELL
+
+zsh
+
 nvm install node
 
 nvm install v16.14.0
