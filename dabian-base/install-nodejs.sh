@@ -2,7 +2,9 @@ sudo apt update -y
 
 sudo apt install curl -y
 
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+
+chsh -s /bin/zsh
 
 nvm install node
 
